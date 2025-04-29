@@ -3,7 +3,7 @@ clc
 close all
 warning off;
 
-addpath('functions')
+addpath('fun')
 
 for j=1:50
 n=2^7;
