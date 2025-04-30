@@ -22,7 +22,7 @@ function [Ak,Ck, Gk,time_cost] = PNMVGL(Xk,P,gamma_1,gamma_2,gamma_3,gamma_4,alp
 
 %%%%
 %
-% Copyright (C)   <Mohammad Al-Wardat> "alwardat@msu.edu"
+% Copyright (C)  
 %  
 %%%%
 
